@@ -22,7 +22,7 @@
 💻 **Frontend:** React.js, HTML, CSS  
 ⚙️ **Backend:** Node.js, Express.js  
 🗄️ **Database:** MongoDB  
-🧠 **Languages:** JavaScript, Python, C  
+🧠 **Languages:** JavaScript, C++, C, Python  
 🔧 **Tools:** Git, GitHub, VS Code  
 
 ---
