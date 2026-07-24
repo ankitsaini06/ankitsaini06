@@ -27,14 +27,19 @@
 
 ---
 
-## 🚀 Projects (Highlight)
-🔹 **Real-time Chat App** – Socket.io based messaging app with live chat & notifications  
-🔹 **E-commerce Website (Frontend)**
-- Built using HTML, CSS, JavaScript  
-- Product listing & responsive UI  
-- Add to cart functionality (local storage based)  
-- Clean and user-friendly design  
+🚀 Projects
 
+🔹 ShelfWise – Library Management System (MERN)
+
+Full-stack library management system with JWT Auth & REST APIs.
+
+🔹 Fake News Detection
+
+ML-based fake news classifier using Python & Scikit-learn.
+
+🔹 Foodie – Food Ordering Website
+
+Responsive food ordering website built with HTML, CSS & JavaScript.
 ---
 
 ## 📊 GitHub Stats
