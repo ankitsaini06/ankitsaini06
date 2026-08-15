@@ -1,8 +1,7 @@
 ![logo](https://github.com/ankitsaini06/ankitsaini06/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Ankit Saini</h1>
-<h3 align="center">🚀 MERN Stack Developer | DSA Enthusiast | 3rd Year B.Tech IT</h3>
-
+<h3 align="center">🚀 MERN Stack Developer | DSA Enthusiast | Final Year B.Tech IT</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ankitsaini06&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
