@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ankit Saini</h1>
-<h3 align="center">🚀 MERN Stack Developer | DSA Enthusiast | Final Year B.Tech IT</h3>
+<h3 align="center">Full Stack Developer | AI-Powered Applications | MERN | DSA | Final Year B.Tech IT</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankitsaini06&label=Profile%20views&color=0e75b6&style=flat" />
@@ -28,19 +28,19 @@
 </p>
 
 <p align="center">
-  📄 <a href="#">Resume</a> &nbsp;•&nbsp; 🌐 <a href="#">Portfolio</a> &nbsp;•&nbsp; 📫 <b>ankitsaini9438@gmail.com</b>
+  🌐 <a href="https://ankit-saini-portfolio-topaz.vercel.app/" target="_blank">Portfolio</a> &nbsp;•&nbsp; 📫 <b>ankitsaini9438@gmail.com</b>
 </p>
 
 ---
 
 ### 💫 About Me
 
-- 🎓 Final Year (4th Year) B.Tech, Information Technology
-- 💻 Passionate about Full Stack Development (MERN)
-- 🧠 Sharpening DSA for placements
-- 🔭 Currently applying for **SDE / Full Stack Developer** roles
-- 🌱 Currently exploring **AI integration** in web apps
-- 🤝 Open to internships, freelance projects, and collabs
+- 🎓 Final Year B.Tech student in Information Technology
+- 💻 Full Stack Developer focused on MERN and scalable web applications
+- 🤖 Building AI-powered applications and exploring AI integration in web applications
+- 🧠 Practicing Data Structures & Algorithms for software engineering roles
+- 🔭 Interested in SDE and Full Stack Development opportunities
+- 🌱 Continuously improving backend development, problem solving and modern web technologies
 - 📫 Reach me at: **ankitsaini9438@gmail.com**
 
 ---
@@ -67,25 +67,27 @@
 
 ### 🚀 Projects
 
-**🔹 [ShelfWise – Library Management System](https://github.com/ankitsaini06)**
-Full-stack MERN library management system with JWT authentication and REST APIs for issuing, returning, and tracking books.
-`React` `Node.js` `Express` `MongoDB` `JWT`
+#### 🔹 Nexora — Multi-Agent AI Platform
 
-**🔹 [Fake News Detection](https://github.com/ankitsaini06)**
-ML-based fake news classifier built with Python and Scikit-learn, trained on labeled news datasets.
-`Python` `Scikit-learn` `NLP`
+AI-powered platform supporting Chat, Search, Coding, PDF, PPT and Vision features, built with a modular full-stack architecture and deployed as a production web application.
 
-**🔹 [Foodie – Food Ordering Website](https://github.com/ankitsaini06)**
-Responsive food ordering website with cart and menu browsing, built using HTML, CSS, and JavaScript.
+`React` `Node.js` `Express.js` `MongoDB` `JavaScript`
+
+🌐 [Live Demo](https://nexora-pied-rho.vercel.app/)
+
+#### 🔹 ShelfWise — Library Management System
+
+Full-stack MERN library management system with authentication and REST APIs for managing books, issuing and returning books, user profiles and library operations.
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT`
+
+🌐 [Live Demo](https://shelf-wise-library-management-syste.vercel.app/)
+
+#### 🔹 Foodie — Food Ordering Website
+
+Responsive food ordering website with menu browsing, cart functionality and a clean user interface built using HTML, CSS and JavaScript.
+
 `HTML` `CSS` `JavaScript`
-
-> 💡 *Add live demo links and repo links to each project above for maximum impact.*
-
----
-
-### 🏆 Achievements & Certifications
-
-- 🏅 *Add hackathons, certifications, or contest ratings here*
 
 ---
 
@@ -113,7 +115,8 @@ Responsive food ordering website with cart and menu browsing, built using HTML, 
   <a href="https://leetcode.com/u/ankitsaini9438_123/" target="_blank">LeetCode</a> •
   <a href="https://www.codechef.com/users/ankit_7773" target="_blank">CodeChef</a> •
   <a href="https://www.hackerrank.com/ankitsaini9438" target="_blank">HackerRank</a> •
-  <a href="https://auth.geeksforgeeks.org/user/ankitsaini06" target="_blank">GeeksforGeeks</a>
+  <a href="https://auth.geeksforgeeks.org/user/ankitsaini06" target="_blank">GeeksforGeeks</a> •
+  <a href="https://ankit-saini-portfolio-topaz.vercel.app/" target="_blank">Portfolio</a>
 </p>
 
 <p align="center">⭐️ From <a href="https://github.com/ankitsaini06">ankitsaini06</a></p>
