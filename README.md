@@ -89,7 +89,7 @@ Responsive food ordering website with menu browsing, cart functionality and a cl
 
 `HTML` `CSS` `JavaScript`
 
----
+🌐 [Live Demo](https://foodie-responsive-website.vercel.app/)
 
 ### 📊 GitHub Stats
 
